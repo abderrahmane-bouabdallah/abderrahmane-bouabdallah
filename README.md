@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello, I’m Abderrahmane Bouabdallah
 
-<!--
-**abderrahmane-bouabdallah/abderrahmane-bouabdallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A beginner web developer aspiring to become a Full-Stack developer   
+🛠️ Following a 90-day learning plan  
+🎓 Currently studying at ENSTA, Algiers
 
-Here are some ideas to get you started:
+## 💡 My Skills:
+- 💻 HTML | CSS | JavaScript | C  
+- 🐍 Python (learning) | Django  
+- ⚙️ Git | GitHub | VS Code  
+- 🐧 Linux (command line, shell scripting)  
+- 🕹️ Emulators (EMU)  
+- 📚 Data Structures (Arrays, Stacks, Queues...)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Goals for 2025: 
+- Master core concepts of algorithms  
+- Contribute to open source projects  
+- Document all my projects on GitHub
+
+## 📊 My GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abderrahmane-bouabdallah&show_icons=true&theme=radical)
